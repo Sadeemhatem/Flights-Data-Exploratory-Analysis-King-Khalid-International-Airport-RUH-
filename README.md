@@ -1,10 +1,10 @@
-✈️ Flights Data Exploratory Analysis using PySpark – King Khalid International Airport (RUH)
-📖 Overview
+Flights Data Exploratory Analysis using PySpark – King Khalid International Airport (RUH)
 
+Overview:
 This project performs a comprehensive exploratory data analysis (EDA) on flight operations through King Khalid International Airport (RUH) in Riyadh.
 Using PySpark, this analysis explores patterns, trends, and key metrics from flight data — such as airline performance, destinations, terminals, and flight statuses — to uncover operational insights and improve data-driven decision-making.
 
-🎯 Objectives
+Objectives
 
 Load and process large-scale flight data using PySpark.
 
@@ -18,27 +18,9 @@ Produce meaningful visualizations for actionable insights.
 
 🧰 Tech Stack
 Category	Tools / Libraries
-Programming:	Python 3
-Framework:	PySpark
-Data Manipulation:	PySpark SQL, Pandas
-Visualization:	Matplotlib, Seaborn, Plotly
-Environment:	Jupyter Notebook / Google Colab
-Data Format:	Parquet
-
-🧩 Dataset Description
-
-The dataset represents flight operations related to King Khalid International Airport (RUH), containing information such as:
-
-Airline Name / Code (IATA, ICAO)
-
-Flight Number
-
-Origin / Destination Airports
-
-Aircraft Model
-
-Flight Status (On time, Delayed, Cancelled)
-
-Departure and Arrival Schedules
-
-Terminal Information
+Programming	Python 3
+Framework	PySpark
+Data Manipulation	PySpark SQL, Pandas
+Visualization	Matplotlib, Seaborn, Plotly
+Environment	Jupyter Notebook / Google Colab
+Data Format	Parquet
